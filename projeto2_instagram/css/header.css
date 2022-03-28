@@ -1,0 +1,49 @@
+.icons > ion-icon {
+    font-size: 22px;
+}
+
+.top-bar {
+    height: 54px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color:#FFFFFF;
+    border-bottom: 1px solid #DBDBDB;
+    z-index: 1;
+}
+
+.header {
+    width: 935px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.search input[type=text] {
+    border: 1px solid #DBDBDB;
+    border-radius: 3px;
+    background-color: #FAFAFA;
+    text-align: center;
+    height: 26px;
+    width: 215px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.icons {
+    width: 180px;
+    
+}
+.instagram {
+    width: 150px;
+}
+
+.instagram ion-icon {
+    font-size: 22px;
+}
+
+.instagram div:nth-child(2) {
+    height: 22px;
+    width: 1px;
+    background-color: #DBDBDB;
+}
